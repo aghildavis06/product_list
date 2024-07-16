@@ -101,18 +101,18 @@
     <div class="container mx-auto px-4">
         <div class="flex flex-wrap justify-between">
             <div class="w-full lg:w-1/2 mb-8 lg:mb-0">
-                <h2 class="text-2xl font-bold mb-4">Swayamvara Wedding and Celebrity Management</h2>
-                <p>Providing exceptional wedding and celebrity management services for over 2 years. Trust us to make your special day unforgettable.</p>
+                <h2 class="text-2xl font-bold mb-4">Vehicles Details and Product Management</h2>
+                <p>Providing exceptional vehicles and product management services for over 2 years. Trust us to make your special day unforgettable.</p>
             </div>
             <div class="w-full lg:w-1/3 mb-8 lg:mb-0">
                 <h3 class="text-xl font-semibold mb-4">Contact Us</h3>
                 <ul>
                     <li>Address: Poovanamoodu, Alimukk</li>
-                    <li>Phone: 7012706469</li>
+                    <li>Phone: 4578982433</li>
                     <li>Address: Punalur, Chemmanthoor</li>
-                    <li>Phone: 8281621761</li>
-                    <li>General Phone: 6282973211</li>
-                    <li>Email: <a href="mailto:swayamvarawedding@gmail.com" class="text-pink-500">swayamvarawedding@gmail.com</a></li>
+                    <li>Phone: 1122334455</li>
+                    <li>General Phone: 4789531545</li>
+                    <li>Email: <a href="mailto:Vehicles@gmail.com" class="text-pink-500">vehicles@gmail.com</a></li>
                 </ul>
             </div>
             <div class="w-full lg:w-1/3">
@@ -126,7 +126,7 @@
             </div>
         </div>
         <div class="border-t border-gray-700 mt-8 pt-8 text-center">
-            <p>&copy; 2024 Swayamvara Wedding and Celebrity Management. All rights reserved.</p>
+            <p>&copy; 2024 Vehicles Product and Product Management. All rights reserved.</p>
         </div>
     </div>
 </footer>
